@@ -140,11 +140,11 @@ button {
 }
 
 .product:hover span {
-    color: #333; /* Change to your desired hover color */
+    color: #333; 
 }
 
 .product button {
-    background-color: #333; /* Change to your desired button color */
+    background-color: #333; 
     color: #ffffff;
     padding: 10px 20px;
     border: none;
@@ -155,7 +155,7 @@ button {
 }
 
 .product button:hover {
-    background-color: #676764 /* Change to your desired hover button color */
+    background-color: #676764 
 }
 
 
@@ -194,7 +194,7 @@ footer {
 }
 
 .footer-links a:hover {
-    color: #ffd700; /* Change to your desired hover color */
+    color: #ffd700;
 }
 
 .footer-bottom {
@@ -203,7 +203,7 @@ footer {
 }
 
 .add {
-    background-color: #676764; /* Change to your desired button color */
+    background-color: #676764; 
     color: #333;
     padding: 10px 20px;
     border: none;
@@ -214,5 +214,5 @@ footer {
 }
 
 .add:hover {
-    background-color: #676764; /* Change to your desired hover button color */
+    background-color: #676764;
 }
